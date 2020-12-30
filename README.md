@@ -13,5 +13,4 @@ This are my first elixir codes when I've done the elixir course in udemy platfor
 
 ### HOW TO EXECUTE
  In the repository folder use the commands to execute the application:
- ```iex myfirstcode.ex````
- 
+ ```iex myfirstcode.ex```
